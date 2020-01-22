@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/rbuettner20/rbuettner20.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbuettner20/rbuettner20.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<body>
+    <header>
+        <h1>Reed's Activity 2 Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home Page</a></li>
+                <li><a href="about.html">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main">
+        <section>
+            <img class="profile" src="images/break.jpg" alt="Winter break picture">
+            <br>
+            <p>
+                Hello, Dr. Royce, and anyone else who happens to view this page! I've created this site not only to meet
+                the requirements for Activity 2, but also to relay a bit of information about myself. I am currently a
+                senior here at UNO, on track to graduate in Fall 2020. I'm studying for my Bachelor's in MIS, which has
+                proven to be a great fit for me, as both IT and business intrigue me! My second "About Me" page will go
+                more in-depth about me and my life.
+            </p>
+            <p>
+                It's been about two years since I took Intro to Web Development, and I haven't really been practicing
+                the skills I'd learned during that class, so trying to relearn a lot of HTML and CSS rules is going to
+                take some time. However, I'm very interested in this topic, so refreshing myself on it is going to be
+                somewhat enjoyable! I'm really looking forward to this class and learning even more about web development!
+            </p>
+        </section>
+        <footer>
+            <p>© 2020 Reed Buettner. </p>
+        </footer>
+    </div>
+</body>

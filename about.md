@@ -1,0 +1,40 @@
+<body>
+    <header>
+        <h1>Reed's Activity 2 Web Page</h1>
+        <nav>
+            <ul>
+                <li><a href="index.md">Home Page</a></li>
+                <li><a href="about.md">About Me</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div id="main">
+        <section>
+            <h2> Before College </h2>
+            <p>
+                I'm <i>terrible</i> at writing about myself, but hopefully that won't affect my grade! I was born and
+                raised in Holdrege, Nebraska, a small town with a population of roughly 5,000. I grew up with an older
+                sister and and older brother, both of which I am still extremely close with. In high school I
+                participated in as many sports as I could: basketball, track, football, and baseball during the summer,
+                which was my absolute favorite. It was also during high school that I really discovered my love for
+                working with technology, having built custom PC's for me and a few friends. I also ran a little "IT help"
+                service for my neighborhood, mostly servicing elderly people confused with iPhones or other newer devices!
+            </p>
+            <h2> Hobbies and Fun </h2>
+            <p>
+                My free time is spent in a variety of ways, some much less productive than the others. My go-to time
+                killer is playing video games with my friends. Most of my friends have moved out of state, along with
+                my older brother, so keeping in touch with them while playing video games really helps staying in each
+                others' lives! I also love to keep in shape by running, but during this time of the year it's hard to
+                find the motivation to brave the cold weather, so I don't do it as frequently at the moment. Whenever my
+                girlfriend comes to visit, she usually has ideas of fun recipes or little craft projects that are a lot
+                of fun to do. I'm terrible at cooking, but it usually goes a lot better when she's helping me! Recently,
+                I've started to get into 3D printing. It's been really interesting trying to come up with ways to use it,
+                and I've already printed a few things that are actually helpful around the house!
+            </p>
+        </section>
+        <footer>
+            <p>© 2020 Reed Buettner. </p>
+        </footer>
+    </div>
+</body>

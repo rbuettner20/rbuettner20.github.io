@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <body>
     <header>
         <h1>Reed's Activity 2 Web Page</h1>

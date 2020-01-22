@@ -3,8 +3,8 @@
         <h1>Reed's Activity 2 Web Page</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home Page</a></li>
-                <li><a href="about.html">About Me</a></li>
+                <li><a href="index.md">Home Page</a></li>
+                <li><a href="about.md">About Me</a></li>
             </ul>
         </nav>
     </header>
